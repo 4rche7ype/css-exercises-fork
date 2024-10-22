@@ -1,3 +1,7 @@
+/* was aware of the duplicate code but decided on not fixing it due
+to the instructions not specifying. Aware it should have been done
+regardless after viewing solution.*/
+
 .odds {
     background-color: rgb(255,155,155);
     font-family: Verdana, "Dejavu Sans", sans-serif;
