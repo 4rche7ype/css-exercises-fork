@@ -1,0 +1,14 @@
+.elementA {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.elementB {
+    background-color: #ffff00;
+}
+
+.elementA,
+.elementB {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
