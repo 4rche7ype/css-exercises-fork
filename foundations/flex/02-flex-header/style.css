@@ -12,15 +12,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  display: flex;
-}
-
-.left-links {
-  display: flex;
-}
-
-.right-links {
-  display: flex;
 }
 
 ul {
@@ -28,6 +19,7 @@ ul {
   list-style-type: none;
   padding: 8px;
   display: flex;
+  gap: 10px;
 }
 
 a {
