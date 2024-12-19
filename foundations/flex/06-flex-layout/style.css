@@ -7,6 +7,26 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+  
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
 img {
   width: 600px;
 }
